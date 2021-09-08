@@ -1,0 +1,14 @@
+[
+    ["who are you", "about"],
+    ["tell me about yourself", "about"],
+    ["who is sheena", "about"],
+    ["about you", "about"],
+    ["about", "about"],
+    ["this is test", "test"],
+    ["test", "test"],
+    ["help", "help"],
+    ["help me", "help"],
+    ["who is your creator", "creator"],
+    ["you creator", "creator"],
+    ["your developer", "creator"]
+]

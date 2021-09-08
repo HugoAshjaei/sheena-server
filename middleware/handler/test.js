@@ -1,0 +1,11 @@
+module.exports = async (req, res, next) => {
+    try {
+        req.msg = 'Yeah it works!';
+        next();
+    } catch (err) {
+        console.log(err);
+        return res.status(500).send({
+            msg: 'An error has occured while trying to process test'
+        });
+    }
+};
