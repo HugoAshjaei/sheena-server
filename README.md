@@ -36,7 +36,8 @@ curl --location --request POST 'localhost:3000/v1/text/process' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "text": "your text will be here"
-}'```
+}'
+```
 
 ## Roadmap
 - [x] initial commands
