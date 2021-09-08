@@ -44,7 +44,7 @@ curl --location --request POST 'localhost:3000/v1/text/process' \
 - [x] add session
 - [ ] session data cache by redis
 - [ ] search and summery
-- [ ] wekipedia
+- [ ] wikipedia
 - [ ] play music
 - [ ] running application by text
 - [ ] etc
