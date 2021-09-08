@@ -28,7 +28,7 @@ curl --location --request GET 'localhost:3000/v1/session/generate' \
 --header 'token: $AUTHTOKEN'
 ```
 
-For activity details (for example on virgool)
+Text to command
 ```bash
 curl --location --request POST 'localhost:3000/v1/text/process' \
 --header 'token: $AUTHTOKEN' \
